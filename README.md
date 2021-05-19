@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on various personnal and academic projects
+
 <!--
 **arc-hugo/arc-hugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
