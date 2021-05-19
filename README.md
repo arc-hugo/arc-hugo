@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there, I am Hugo Barral/@arc-hugo 👋
 
-- 🔭 I’m currently working on various personnal and academic projects
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on my last exams.
+- 🌱 I’m currently learning computer science at [INSA Toulouse](https://www.insa-toulouse.fr/en/index.html) and a little on my own.
+- 💬 Ask me about anything you want !
+- 📫 You can reach me by [email](mailto:hugo.barral@outlook.fr) 
+
 
 <!--
 **arc-hugo/arc-hugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
