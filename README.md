@@ -1,7 +1,7 @@
 ### Hi there, I am Hugo Barral/@arc-hugo 👋
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently on summer internship.
+- 🔭 I’m currently on summer vacations.
 - 🌱 I’m currently learning computer science at [INSA Toulouse](https://www.insa-toulouse.fr/en/index.html) and a little on my own.
 - 💬 Ask me about anything you want !
 - 📫 You can reach me by [email](mailto:hugo.barral@outlook.fr) 
