@@ -4,7 +4,7 @@
 - 🔭 On 1st year of MSc and searching for summer internship.
 - 🌱 Learning computer science at [INSA Toulouse](https://www.insa-toulouse.fr/en/index.html) and on my own.
 - 💬 Ask me about anything you want !
-- 📫 You can reach me by [email](mailto:hugo.barral@outlook.fr) 
+- 📫 hugo\[dot\]barral\[at\]outlook\[dot\]fr or at [arc_hugo](https://keybase.io/arc_hugo/)
 
 
 <!--
