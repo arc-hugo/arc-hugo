@@ -1,7 +1,7 @@
 ### Hi there, I am Hugo Barral/@arc-hugo 👋
 
 - 😄 Pronouns: he/him
-- 🔭 1st year MSc. student in Computer and Network searching for summer internship.
+- 🔭 1st year MSc. student in Computer and Network engineering in search for a summer internship.
 - 🌱 Learning at [INSA Toulouse](https://www.insa-toulouse.fr/en/index.html) and on my own.
 - 💬 Ask me about anything you want !
 - 📫 hugo\[dot\]barral\[at\]outlook\[dot\]fr or at [arc_hugo](https://keybase.io/arc_hugo/)
@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
