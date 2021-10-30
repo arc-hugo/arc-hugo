@@ -1,8 +1,8 @@
 ### Hi there, I am Hugo Barral/@arc-hugo 👋
 
 - 😄 Pronouns: he/him
-- 🔭 On 1st year of MSc and searching for summer internship.
-- 🌱 Learning computer science at [INSA Toulouse](https://www.insa-toulouse.fr/en/index.html) and on my own.
+- 🔭 1st year MSc. student in Computer and Network searching for summer internship.
+- 🌱 Learning at [INSA Toulouse](https://www.insa-toulouse.fr/en/index.html) and on my own.
 - 💬 Ask me about anything you want !
 - 📫 hugo\[dot\]barral\[at\]outlook\[dot\]fr or at [arc_hugo](https://keybase.io/arc_hugo/)
 
