@@ -1,7 +1,7 @@
 ### Hi there, I am Hugo Barral/@arc-hugo 👋
 
 - 😄 Pronouns: he/him
-- 🔭 1st year PhD student in Computer Science.
+- 🔭 2nd year PhD student in Computer Science.
 - 🌱 Learning at [INSA Toulouse](https://www.insa-toulouse.fr/en/index.html), [Polytechnique Montréal](https://www.polymtl.ca/) and on my own.
 - 💬 Ask me about anything you want !
 - 📫 [arc_hugo](https://keybase.io/arc_hugo/)
